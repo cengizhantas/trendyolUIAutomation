@@ -1,0 +1,88 @@
+2020-01-25 21:02:38 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 21:04:14 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 21:04:46 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 21:06:48 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 21:19:01 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 21:19:49 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 21:35:11 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 21:36:16 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 21:40:20 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 21:43:12 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 21:43:48 INFO  LoginPage:35 - user-name:
+2020-01-25 21:43:48 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-25 21:51:54 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 21:54:21 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 21:54:44 INFO  LoginPage:35 - user-name:
+2020-01-25 21:54:44 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-25 21:59:39 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 22:00:10 INFO  LoginPage:35 - user-name:
+2020-01-25 22:00:10 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-25 22:00:39 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 22:01:04 INFO  LoginPage:35 - user-name:
+2020-01-25 22:01:04 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-25 22:01:22 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 22:01:45 INFO  LoginPage:35 - user-name:
+2020-01-25 22:01:45 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-25 22:02:19 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 22:02:40 INFO  LoginPage:35 - user-name:
+2020-01-25 22:02:40 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-25 22:05:24 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 22:05:47 INFO  LoginPage:35 - user-name:
+2020-01-25 22:05:47 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-25 23:00:38 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 23:01:02 INFO  LoginPage:35 - user-name:
+2020-01-25 23:01:02 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-25 23:01:37 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 23:02:14 INFO  LoginPage:35 - user-name:
+2020-01-25 23:02:14 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-25 23:04:29 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 23:04:57 INFO  LoginPage:35 - user-name:
+2020-01-25 23:04:57 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-25 23:05:41 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 23:06:05 INFO  LoginPage:35 - user-name:
+2020-01-25 23:06:05 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-25 23:06:43 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 23:07:06 INFO  LoginPage:35 - user-name:
+2020-01-25 23:07:06 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-25 23:09:36 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 23:09:59 INFO  LoginPage:35 - user-name:
+2020-01-25 23:09:59 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-25 23:13:56 INFO  BaseTest:24 - Driver:CHROME
+2020-01-25 23:14:22 INFO  LoginPage:35 - user-name:
+2020-01-25 23:14:22 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-26 14:20:09 INFO  BaseTest:24 - Driver:CHROME
+2020-01-26 14:20:32 INFO  LoginPage:35 - user-name:
+2020-01-26 14:20:32 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-26 14:29:30 INFO  BaseTest:24 - Driver:CHROME
+2020-01-26 14:29:54 INFO  LoginPage:35 - user-name:
+2020-01-26 14:29:54 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-26 14:30:32 INFO  BaseTest:24 - Driver:CHROME
+2020-01-26 14:30:55 INFO  LoginPage:35 - user-name:
+2020-01-26 14:30:55 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-26 14:38:31 INFO  BaseTest:24 - Driver:CHROME
+2020-01-26 14:38:54 INFO  LoginPage:35 - user-name:
+2020-01-26 14:38:54 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-26 14:39:46 INFO  BaseTest:24 - Driver:CHROME
+2020-01-26 14:40:09 INFO  LoginPage:35 - user-name:
+2020-01-26 14:40:09 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-26 14:43:25 INFO  BaseTest:24 - Driver:CHROME
+2020-01-26 14:43:48 INFO  LoginPage:35 - user-name:
+2020-01-26 14:43:48 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-26 14:44:17 INFO  BaseTest:24 - Driver:CHROME
+2020-01-26 14:44:41 INFO  LoginPage:35 - user-name:
+2020-01-26 14:44:41 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-26 14:50:11 INFO  BaseTest:24 - Driver:CHROME
+2020-01-26 14:50:34 INFO  LoginPage:35 - user-name:
+2020-01-26 14:50:34 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-26 15:08:55 INFO  BaseTest:24 - Driver:CHROME
+2020-01-26 15:09:21 INFO  LoginPage:35 - user-name:
+2020-01-26 15:09:21 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-26 15:09:52 INFO  BaseTest:24 - Driver:CHROME
+2020-01-26 15:10:17 INFO  LoginPage:35 - user-name:
+2020-01-26 15:10:17 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-27 01:44:15 INFO  BaseTest:24 - Driver:CHROME
+2020-01-27 01:44:36 INFO  LoginPage:35 - user-name:
+2020-01-27 01:44:36 INFO  LoginPage:37 - Giriş Başarılı!
+2020-01-27 01:45:01 INFO  BaseTest:24 - Driver:CHROME
+2020-01-27 01:45:20 INFO  LoginPage:35 - user-name:
+2020-01-27 01:45:20 INFO  LoginPage:37 - Giriş Başarılı!
